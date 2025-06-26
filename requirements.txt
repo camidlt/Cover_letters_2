@@ -1,0 +1,12 @@
+beautifulsoup4
+requests
+PyMuPDF
+langdetect
+selenium
+webdriver-manager
+fastapi
+uvicorn[standard]
+python-multipart
+reportlab
+fpdf2
+streamlit  # optionnel si tu veux une interface
